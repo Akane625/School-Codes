@@ -4,11 +4,11 @@ This are folders of some of my codes I was prompted to make in college. Sadly so
 
 ---
 ## 📚 Table of Contents
-| No. | Folder Names | Description | Tech Used |
-|-----|---------------|-------------|-----------|
-| 1 | [Calculator App](./CalculatorApp) | A simple calculator using C#. | C# |
-| 2 | [Sorting Visualizer](./SortingVisualizer) | Visualizes sorting algorithms. | Python |
-| 3 | [Weather Dashboard](./WeatherDashboard) | Displays real-time weather data. | HTML, CSS, JS |
-| 4 | [Student Grade Tracker](./GradeTracker) | Stores and calculates student averages. | C# |
-| 5 | [Todo CLI](./TodoCLI) | Command-line based to-do list. | Python |
+| No. | Folder Names | Description |
+|-----|---------------|-------------|
+| 1 | [1st Year Codes](./1st-Year-Codes) | A Collection of 1st year college codes |
+| 2 | [2nd Year Codes]() | A Collection of 2nd year college codes |
+| 3 | [3rd Year Codes]() | A Collection of 3rd year college codes |
+| 4 | [4th Year Codes]() | A Collection of 4th year college codes |
+
 
