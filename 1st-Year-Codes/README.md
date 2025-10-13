@@ -4,4 +4,4 @@ The courses covered in this folder are **Fundamentals of Programming, Intermedia
 
 ---
 
-Wanna go back? [Click Here](../School-Codes)
+Wanna go back? [Click Here](../../School-Codes)
