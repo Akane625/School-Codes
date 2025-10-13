@@ -20,13 +20,22 @@ This are folders of some of my codes I was prompted to make in college. Sadly mo
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Folder Structure
 ```
 📦 School-Codes
-┣ 📂 1st-Year-Codes
-┣ 📂 2nd-Year-Codes
-┣ 📂 3rd-Year-Codes
-┣ 📂 4th-Year-Codes
+├── 📂 1st-Year-Codes
+├── 📂 2nd-Year-Codes
+│ └── 📂 Stress-Strain-Calculator-V4
+│   └── 📂 stress_strain
+│     ├── 📂 core
+│     ├── 📂 io
+│     └── 📂 models
+├── 📂 3rd-Year-Codes
+└── 📂 4th-Year-Codes
 ```
+
+
+
+
 
 
