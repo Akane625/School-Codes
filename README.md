@@ -20,12 +20,12 @@ This are folders of some of my codes I was prompted to make in college. Sadly so
 
 ---
 
-## 📁 Repository Structure
-'''
+'''## 📁 Repository Structure
 📦 School-Codes
 ┣ 📂 1st-Year-Codes
 ┣ 📂 2nd-Year-Codes
 ┣ 📂 3rd-Year-Codes
-┣ 📂 4th-Year-Codes
-'''
+┣ 📂 4th-Year-Codes'''
+
 ---
+
