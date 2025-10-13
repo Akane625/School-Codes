@@ -1,6 +1,6 @@
 # My Scool Codes
 
-This are folders of some of my codes I was prompted to make in college. Sadly some were not included (ex. Jupyter, Google Colab files). Most of the files present are py files.
+This are folders of some of my codes I was prompted to make in college. Sadly most were not included (ex. Jupyter, Google Colab files). Most of the files present are py files. In addition, I excluded files that had the aid of AI.
 
 ---
 
@@ -28,4 +28,5 @@ This are folders of some of my codes I was prompted to make in college. Sadly so
 ┣ 📂 3rd-Year-Codes
 ┣ 📂 4th-Year-Codes
 ```
+
 
