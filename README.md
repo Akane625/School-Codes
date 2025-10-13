@@ -28,6 +28,3 @@ This are folders of some of my codes I was prompted to make in college. Sadly so
 ┣ 📂 3rd-Year-Codes
 ┣ 📂 4th-Year-Codes
 ```
----
-
-
