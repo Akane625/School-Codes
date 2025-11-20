@@ -16,7 +16,7 @@ This are folders of some of my codes I was prompted to make in college. Sadly mo
 
 ## 🚀 Highlights
 - 🧠 Projects covering **Fundamentals of Programming, Data Structures, Intermediate Programming, Programming for Data Science**
-- 📅 Organized by year
+- 📅 Organized by school year
 
 ---
 
@@ -33,6 +33,7 @@ This are folders of some of my codes I was prompted to make in college. Sadly mo
 ├── 📂 3rd-Year-Codes
 └── 📂 4th-Year-Codes
 ```
+
 
 
 
